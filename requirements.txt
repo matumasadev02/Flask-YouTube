@@ -5,4 +5,3 @@ lxml
 youtube_dl
 ffmpeg
 requests
-shutil
