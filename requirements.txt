@@ -5,5 +5,4 @@ lxml
 youtube_dl
 ffmpeg
 requests
-subprocess
 shutil
